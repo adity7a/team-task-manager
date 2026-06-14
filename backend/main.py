@@ -50,5 +50,3 @@ def root():
         "docs": "/docs",
         "health": "/api/health",
     }
-        "health": "/api/health",
-    }
